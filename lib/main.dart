@@ -15,6 +15,7 @@ void main() {
   );
 }
 
+//This is a test of git
 // ignore: use_key_in_widget_constructors
 class DicePage extends StatelessWidget {
   @override
